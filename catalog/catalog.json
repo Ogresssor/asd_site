@@ -1,0 +1,614 @@
+[
+ {
+  "Раздел": "Тепловые пункты и автоматизация",
+  "Подраздел": "Шкафы автоматизации и учёта",
+  "Позиция": "Шкаф учёта",
+  "Бренды": "Ридан, ПромСервис, Теплосила, Вогез",
+  "Изображение": "images/teplovye-punkty-i-avtomatizaciya/shkafy-avtomatizacii-i-ucheta/shkaf-ucheta.png",
+  "Код (symbol code)": "shkaf-ucheta",
+  "Источник": "Автоматика для тепловых пунктов"
+ },
+ {
+  "Раздел": "Тепловые пункты и автоматизация",
+  "Подраздел": "Шкафы автоматизации и учёта",
+  "Позиция": "Шкаф автоматизации",
+  "Бренды": "Ридан, ПромСервис, Теплосила, Вогез",
+  "Изображение": "images/teplovye-punkty-i-avtomatizaciya/shkafy-avtomatizacii-i-ucheta/shkaf-avtomatizacii.png",
+  "Код (symbol code)": "shkaf-avtomatizacii",
+  "Источник": "Автоматика для тепловых пунктов"
+ },
+ {
+  "Раздел": "Тепловые пункты и автоматизация",
+  "Подраздел": "Блочные тепловые пункты",
+  "Позиция": "Блочный тепловой пункт (БТП)",
+  "Бренды": "Ридан",
+  "Изображение": "images/teplovye-punkty-i-avtomatizaciya/blochnye-teplovye-punkty/blochnyy-teplovoy-punkt-btp.png",
+  "Код (symbol code)": "blochnyy-teplovoy-punkt-btp",
+  "Источник": "БТП, КОЛЛЕКТОРНЫЕ ШКАФЫ ТОЛЬКО РИДАН"
+ },
+ {
+  "Раздел": "Тепловые пункты и автоматизация",
+  "Подраздел": "Коллекторные шкафы и термочехлы",
+  "Позиция": "Коллекторный шкаф",
+  "Бренды": "Ридан",
+  "Изображение": "images/teplovye-punkty-i-avtomatizaciya/kollektornye-shkafy-i-termochehly/kollektornyy-shkaf.png",
+  "Код (symbol code)": "kollektornyy-shkaf",
+  "Источник": "БТП, КОЛЛЕКТОРНЫЕ ШКАФЫ ТОЛЬКО РИДАН"
+ },
+ {
+  "Раздел": "Тепловые пункты и автоматизация",
+  "Подраздел": "Коллекторные шкафы и термочехлы",
+  "Позиция": "Термочехол",
+  "Бренды": "Ридан, К-Флекс",
+  "Изображение": "images/teplovye-punkty-i-avtomatizaciya/kollektornye-shkafy-i-termochehly/termochehol.png",
+  "Код (symbol code)": "termochehol",
+  "Источник": "БТП, КОЛЛЕКТОРНЫЕ ШКАФЫ ТОЛЬКО РИДАН"
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Циркуляционные насосы",
+  "Позиция": "Циркуляционный насос Native-NOC S (резьбовой/фланцевый)",
+  "Бренды": "Ридан, Wilo, CNP, IMP Pumps, Vandjord, Wellmix, DAB, ESPA",
+  "Изображение": "images/nasosnoe-oborudovanie/cirkulyacionnye-nasosy/cirkulyacionnyy-nasos-native-noc-s-rezbovoy-flancevyy.png",
+  "Код (symbol code)": "cirkulyacionnyy-nasos-native-noc-s-rezbovoy-flancevyy",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Циркуляционные насосы",
+  "Позиция": "Циркуляционный насос Wilo-CronoLine-IL (фланцевый)",
+  "Бренды": "Ридан, Wilo, CNP, IMP Pumps, Vandjord, Wellmix, DAB, ESPA",
+  "Изображение": "images/nasosnoe-oborudovanie/cirkulyacionnye-nasosy/cirkulyacionnyy-nasos-wilo-cronoline-il-flancevyy.png",
+  "Код (symbol code)": "cirkulyacionnyy-nasos-wilo-cronoline-il-flancevyy",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Насосные установки",
+  "Позиция": "Насосная установка повышения давления",
+  "Бренды": "Ридан, Wilo, CNP (Aikon), Vandjord, Wellmix, DAB",
+  "Изображение": "images/nasosnoe-oborudovanie/nasosnye-ustanovki/nasosnaya-ustanovka-povysheniya-davleniya.png",
+  "Код (symbol code)": "nasosnaya-ustanovka-povysheniya-davleniya",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Насосные установки",
+  "Позиция": "Насосная установка пожаротушения",
+  "Бренды": "Ридан, Wilo, CNP (Aikon), Vandjord, Wellmix, DAB",
+  "Изображение": "images/nasosnoe-oborudovanie/nasosnye-ustanovki/nasosnaya-ustanovka-pozharotusheniya.png",
+  "Код (symbol code)": "nasosnaya-ustanovka-pozharotusheniya",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Насосные установки",
+  "Позиция": "Насосная установка поддержания давления",
+  "Бренды": "Ридан, Wilo, CNP (Aikon), Vandjord, Wellmix, DAB",
+  "Изображение": "images/nasosnoe-oborudovanie/nasosnye-ustanovki/nasosnaya-ustanovka-podderzhaniya-davleniya.png",
+  "Код (symbol code)": "nasosnaya-ustanovka-podderzhaniya-davleniya",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Центробежные насосы",
+  "Позиция": "Центробежный насос",
+  "Бренды": "CNP, Wilo, Vandjord",
+  "Изображение": "images/nasosnoe-oborudovanie/centrobezhnye-nasosy/centrobezhnyy-nasos.png",
+  "Код (symbol code)": "centrobezhnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Канализационные насосы",
+  "Позиция": "Канализационный насос",
+  "Бренды": "CNP, Wilo, Vandjord",
+  "Изображение": "images/nasosnoe-oborudovanie/kanalizacionnye-nasosy/kanalizacionnyy-nasos.png",
+  "Код (symbol code)": "kanalizacionnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Насосы инлайн",
+  "Позиция": "Насос инлайн",
+  "Бренды": "Ридан, Wilo, CNP, Vandjord, IMP Pumps, Wellmix",
+  "Изображение": "images/nasosnoe-oborudovanie/nasosy-inlayn/nasos-inlayn.png",
+  "Код (symbol code)": "nasos-inlayn",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Консольные насосы",
+  "Позиция": "Консольно-моноблочный насос",
+  "Бренды": "Wilo, CNP, Vandjord, IMP Pumps, Wellmix",
+  "Изображение": "images/nasosnoe-oborudovanie/konsolnye-nasosy/konsolno-monoblochnyy-nasos.png",
+  "Код (symbol code)": "konsolno-monoblochnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Многоступенчатые насосы",
+  "Позиция": "Многоступенчатый насос горизонтальный",
+  "Бренды": "Ридан, Wilo, CNP, Vandjord, IMP Pumps, ESPA",
+  "Изображение": "images/nasosnoe-oborudovanie/mnogostupenchatye-nasosy/mnogostupenchatyy-nasos-gorizontalnyy.png",
+  "Код (symbol code)": "mnogostupenchatyy-nasos-gorizontalnyy",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Многоступенчатые насосы",
+  "Позиция": "Многоступенчатый насос вертикальный",
+  "Бренды": "Ридан, Wilo, CNP, Vandjord, IMP Pumps, ESPA",
+  "Изображение": "images/nasosnoe-oborudovanie/mnogostupenchatye-nasosy/mnogostupenchatyy-nasos-vertikalnyy.png",
+  "Код (symbol code)": "mnogostupenchatyy-nasos-vertikalnyy",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Дренажные насосы",
+  "Позиция": "Дренажный насос",
+  "Бренды": "Ридан, CNP, Wilo, Vandjord, DAB",
+  "Изображение": "images/nasosnoe-oborudovanie/drenazhnye-nasosy/drenazhnyy-nasos.png",
+  "Код (symbol code)": "drenazhnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Фекальные насосы",
+  "Позиция": "Фекальный насос",
+  "Бренды": "CNP, Wilo, Vandjord",
+  "Изображение": "images/nasosnoe-oborudovanie/fekalnye-nasosy/fekalnyy-nasos.png",
+  "Код (symbol code)": "fekalnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Насосное оборудование",
+  "Подраздел": "Поверхностные насосы",
+  "Позиция": "Поверхностный насос",
+  "Бренды": "Ридан, Wilo, CNP",
+  "Изображение": "images/nasosnoe-oborudovanie/poverhnostnye-nasosy/poverhnostnyy-nasos.jpeg",
+  "Код (symbol code)": "poverhnostnyy-nasos",
+  "Источник": "НАСОСНОЕ ОБОРУДОВАНИЕ 2."
+ },
+ {
+  "Раздел": "Теплообменное оборудование",
+  "Подраздел": "Пластинчатые теплообменники",
+  "Позиция": "Пластинчатый теплообменник",
+  "Бренды": "Ридан",
+  "Изображение": "images/teploobmennoe-oborudovanie/plastinchatye-teploobmenniki/plastinchatyy-teploobmennik.png",
+  "Код (symbol code)": "plastinchatyy-teploobmennik",
+  "Источник": "Теплообменники РИДАН"
+ },
+ {
+  "Раздел": "Теплообменное оборудование",
+  "Подраздел": "Комплектующие теплообменников",
+  "Позиция": "Прокладка для теплообменника",
+  "Бренды": "Ридан",
+  "Изображение": "images/teploobmennoe-oborudovanie/komplektuyuschie-teploobmennikov/prokladka-dlya-teploobmennika.png",
+  "Код (symbol code)": "prokladka-dlya-teploobmennika",
+  "Источник": "Теплообменники РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Стальная арматура",
+  "Позиция": "Кран шаровой стальной",
+  "Бренды": "Ридан, LD, Temper, Also",
+  "Изображение": "images/truboprovodnaya-armatura/stalnaya-armatura/kran-sharovoy-stalnoy.png",
+  "Код (symbol code)": "kran-sharovoy-stalnoy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Чугунная арматура",
+  "Позиция": "Обратный клапан чугунный",
+  "Бренды": "Tecofi, FAF, Ридан, Rushwork, Aikon, Reon",
+  "Изображение": "images/truboprovodnaya-armatura/chugunnaya-armatura/obratnyy-klapan-chugunnyy.png",
+  "Код (symbol code)": "obratnyy-klapan-chugunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Чугунная арматура",
+  "Позиция": "Фильтр чугунный",
+  "Бренды": "Tecofi, FAF, Ридан, Rushwork, Aikon, Reon",
+  "Изображение": "images/truboprovodnaya-armatura/chugunnaya-armatura/filtr-chugunnyy.png",
+  "Код (symbol code)": "filtr-chugunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Чугунная арматура",
+  "Позиция": "Антивибрационный компенсатор",
+  "Бренды": "Tecofi, FAF, Ридан, Rushwork, Aikon, Reon",
+  "Изображение": "images/truboprovodnaya-armatura/chugunnaya-armatura/antivibracionnyy-kompensator.png",
+  "Код (symbol code)": "antivibracionnyy-kompensator",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Чугунная арматура",
+  "Позиция": "Затвор чугунный",
+  "Бренды": "Tecofi, FAF, Ридан, Rushwork, Aikon, Reon",
+  "Изображение": "images/truboprovodnaya-armatura/chugunnaya-armatura/zatvor-chugunnyy.png",
+  "Код (symbol code)": "zatvor-chugunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Латунная арматура",
+  "Позиция": "Кран шаровой латунный",
+  "Бренды": "Ридан, LD, Темпер",
+  "Изображение": "images/truboprovodnaya-armatura/latunnaya-armatura/kran-sharovoy-latunnyy.png",
+  "Код (symbol code)": "kran-sharovoy-latunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Латунная арматура",
+  "Позиция": "Обратный клапан латунный",
+  "Бренды": "Ридан, LD, Темпер",
+  "Изображение": "images/truboprovodnaya-armatura/latunnaya-armatura/obratnyy-klapan-latunnyy.png",
+  "Код (symbol code)": "obratnyy-klapan-latunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Латунная арматура",
+  "Позиция": "Фильтр латунный",
+  "Бренды": "Ридан, LD, Темпер",
+  "Изображение": "images/truboprovodnaya-armatura/latunnaya-armatura/filtr-latunnyy.png",
+  "Код (symbol code)": "filtr-latunnyy",
+  "Источник": "Арматура Ридан, ЛД, Темпер"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Комбинированный балансировочный клапан AQT-R3 (резьбовой)",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/kombinirovannyy-balansirovochnyy-klapan-aqt-r3-rezbovoy.png",
+  "Код (symbol code)": "kombinirovannyy-balansirovochnyy-klapan-aqt-r3-rezbovoy",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Комбинированный балансировочный клапан AQF-R (фланцевый)",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/kombinirovannyy-balansirovochnyy-klapan-aqf-r-flancevyy.png",
+  "Код (symbol code)": "kombinirovannyy-balansirovochnyy-klapan-aqf-r-flancevyy",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Регулятор перепада давления APT-R3",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/regulyator-perepada-davleniya-apt-r3.png",
+  "Код (symbol code)": "regulyator-perepada-davleniya-apt-r3",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Ручной балансировочный клапан MNT-R (резьбовой)",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/ruchnoy-balansirovochnyy-klapan-mnt-r-rezbovoy.png",
+  "Код (symbol code)": "ruchnoy-balansirovochnyy-klapan-mnt-r-rezbovoy",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Ручной балансировочный клапан MVT-R2 (резьбовой)",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/ruchnoy-balansirovochnyy-klapan-mvt-r2-rezbovoy.png",
+  "Код (symbol code)": "ruchnoy-balansirovochnyy-klapan-mvt-r2-rezbovoy",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Балансировочная арматура",
+  "Позиция": "Ручной балансировочный клапан MNF-R2 (фланцевый)",
+  "Бренды": "Ридан",
+  "Изображение": "images/truboprovodnaya-armatura/balansirovochnaya-armatura/ruchnoy-balansirovochnyy-klapan-mnf-r2-flancevyy.png",
+  "Код (symbol code)": "ruchnoy-balansirovochnyy-klapan-mnf-r2-flancevyy",
+  "Источник": "Балансировочные клапаны РИДАН"
+ },
+ {
+  "Раздел": "Трубопроводная арматура",
+  "Подраздел": "Предохранительная арматура",
+  "Позиция": "Предохранительный клапан",
+  "Бренды": "Valtec, Officine, Rigamonti",
+  "Изображение": "images/truboprovodnaya-armatura/predohranitelnaya-armatura/predohranitelnyy-klapan.png",
+  "Код (symbol code)": "predohranitelnyy-klapan",
+  "Источник": "Противопожарные, предохранительные клапаны, полипропиленовые трубы, фитинги"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Трубы из сшитого полиэтилена и металлопластика",
+  "Позиция": "Труба из сшитого полиэтилена",
+  "Бренды": "Usystems, Hipex, Valtec, K-Flex",
+  "Изображение": "images/truby-i-fitingi/truby-iz-sshitogo-polietilena-i-metalloplastika/truba-iz-sshitogo-polietilena.png",
+  "Код (symbol code)": "truba-iz-sshitogo-polietilena",
+  "Источник": "Трубы из металлопластика, сшитый полиэтилен"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Трубы из сшитого полиэтилена и металлопластика",
+  "Позиция": "Труба металлопластиковая",
+  "Бренды": "Usystems, Hipex, Valtec, K-Flex",
+  "Изображение": "images/truby-i-fitingi/truby-iz-sshitogo-polietilena-i-metalloplastika/truba-metalloplastikovaya.png",
+  "Код (symbol code)": "truba-metalloplastikovaya",
+  "Источник": "Трубы из металлопластика, сшитый полиэтилен"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Полипропиленовые трубы и фитинги",
+  "Позиция": "Полипропиленовая труба",
+  "Бренды": "Valtec, RTP",
+  "Изображение": "images/truby-i-fitingi/polipropilenovye-truby-i-fitingi/polipropilenovaya-truba.png",
+  "Код (symbol code)": "polipropilenovaya-truba",
+  "Источник": "Противопожарные, предохранительные клапаны, полипропиленовые трубы, фитинги"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Полипропиленовые трубы и фитинги",
+  "Позиция": "Фитинг полипропиленовый",
+  "Бренды": "Valtec, RTP",
+  "Изображение": "images/truby-i-fitingi/polipropilenovye-truby-i-fitingi/fiting-polipropilenovyy.png",
+  "Код (symbol code)": "fiting-polipropilenovyy",
+  "Источник": "Противопожарные, предохранительные клапаны, полипропиленовые трубы, фитинги"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Канализация",
+  "Позиция": "Канализационная труба",
+  "Бренды": "RTP, HL",
+  "Изображение": "images/truby-i-fitingi/kanalizaciya/kanalizacionnaya-truba.png",
+  "Код (symbol code)": "kanalizacionnaya-truba",
+  "Источник": "Канализационные трубы, трапы, воронки"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Канализация",
+  "Позиция": "Трап",
+  "Бренды": "RTP, HL",
+  "Изображение": "images/truby-i-fitingi/kanalizaciya/trap.png",
+  "Код (symbol code)": "trap",
+  "Источник": "Канализационные трубы, трапы, воронки"
+ },
+ {
+  "Раздел": "Трубы и фитинги",
+  "Подраздел": "Канализация",
+  "Позиция": "Воронка",
+  "Бренды": "RTP, HL",
+  "Изображение": "images/truby-i-fitingi/kanalizaciya/voronka.png",
+  "Код (symbol code)": "voronka",
+  "Источник": "Канализационные трубы, трапы, воронки"
+ },
+ {
+  "Раздел": "Отопление",
+  "Подраздел": "Радиаторы",
+  "Позиция": "Стальной панельный радиатор",
+  "Бренды": "Evra, Meteor, Оазис",
+  "Изображение": "images/otoplenie/radiatory/stalnoy-panelnyy-radiator.png",
+  "Код (symbol code)": "stalnoy-panelnyy-radiator",
+  "Источник": "РАДИАТОРЫ, КОНВЕКТОРЫ, БАКИ"
+ },
+ {
+  "Раздел": "Отопление",
+  "Подраздел": "Радиаторы",
+  "Позиция": "Биметаллический радиатор",
+  "Бренды": "Evra, Meteor, Оазис",
+  "Изображение": "images/otoplenie/radiatory/bimetallicheskiy-radiator.png",
+  "Код (symbol code)": "bimetallicheskiy-radiator",
+  "Источник": "РАДИАТОРЫ, КОНВЕКТОРЫ, БАКИ"
+ },
+ {
+  "Раздел": "Отопление",
+  "Подраздел": "Конвекторы",
+  "Позиция": "Напольный конвектор",
+  "Бренды": "Изотерм, Helios Therm",
+  "Изображение": "images/otoplenie/konvektory/napolnyy-konvektor.png",
+  "Код (symbol code)": "napolnyy-konvektor",
+  "Источник": "РАДИАТОРЫ, КОНВЕКТОРЫ, БАКИ"
+ },
+ {
+  "Раздел": "Отопление",
+  "Подраздел": "Конвекторы",
+  "Позиция": "Внутрипольный конвектор",
+  "Бренды": "Изотерм, Helios Therm",
+  "Изображение": "images/otoplenie/konvektory/vnutripolnyy-konvektor.png",
+  "Код (symbol code)": "vnutripolnyy-konvektor",
+  "Источник": "РАДИАТОРЫ, КОНВЕКТОРЫ, БАКИ"
+ },
+ {
+  "Раздел": "Отопление",
+  "Подраздел": "Расширительные баки",
+  "Позиция": "Мембранный расширительный бак",
+  "Бренды": "Flamco, Wester, CRUWA",
+  "Изображение": "images/otoplenie/rasshiritelnye-baki/membrannyy-rasshiritelnyy-bak.png",
+  "Код (symbol code)": "membrannyy-rasshiritelnyy-bak",
+  "Источник": "РАДИАТОРЫ, КОНВЕКТОРЫ, БАКИ"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "Счётчики воды",
+  "Позиция": "Счётчик воды крыльчатый",
+  "Бренды": "Декаст, Бетар, Пульсар",
+  "Изображение": "images/pribory-ucheta-i-kipia/schetchiki-vody/schetchik-vody-krylchatyy.jpeg",
+  "Код (symbol code)": "schetchik-vody-krylchatyy",
+  "Источник": "СЧЕТЧИКИ ВОДЫ"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "Счётчики воды",
+  "Позиция": "Счётчик воды ультразвуковой",
+  "Бренды": "Декаст, Бетар, Пульсар",
+  "Изображение": "images/pribory-ucheta-i-kipia/schetchiki-vody/schetchik-vody-ultrazvukovoy.png",
+  "Код (symbol code)": "schetchik-vody-ultrazvukovoy",
+  "Источник": "СЧЕТЧИКИ ВОДЫ"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "Теплоучёт и энергосбережение",
+  "Позиция": "Теплосчётчик",
+  "Бренды": "ПромСервис, Взлёт, Теплоком, ТБН",
+  "Изображение": "images/pribory-ucheta-i-kipia/teplouchet-i-energosberezhenie/teploschetchik.png",
+  "Код (symbol code)": "teploschetchik",
+  "Источник": "Энергосбережение"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "Теплоучёт и энергосбережение",
+  "Позиция": "Расходомер",
+  "Бренды": "ПромСервис, Взлёт, Теплоком, ТБН",
+  "Изображение": "images/pribory-ucheta-i-kipia/teplouchet-i-energosberezhenie/rashodomer.png",
+  "Код (symbol code)": "rashodomer",
+  "Источник": "Энергосбережение"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "Теплоучёт и энергосбережение",
+  "Позиция": "Датчик",
+  "Бренды": "ПромСервис, Взлёт, Теплоком, ТБН",
+  "Изображение": "images/pribory-ucheta-i-kipia/teplouchet-i-energosberezhenie/datchik.png",
+  "Код (symbol code)": "datchik",
+  "Источник": "Энергосбережение"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "КИПиА",
+  "Позиция": "Манометр",
+  "Бренды": "РОСМА",
+  "Изображение": "images/pribory-ucheta-i-kipia/kipia/manometr.png",
+  "Код (symbol code)": "manometr",
+  "Источник": "КИП"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "КИПиА",
+  "Позиция": "Термометр",
+  "Бренды": "РОСМА",
+  "Изображение": "images/pribory-ucheta-i-kipia/kipia/termometr.png",
+  "Код (symbol code)": "termometr",
+  "Источник": "КИП"
+ },
+ {
+  "Раздел": "Приборы учёта и КИПиА",
+  "Подраздел": "КИПиА",
+  "Позиция": "Термоманометр",
+  "Бренды": "РОСМА",
+  "Изображение": "images/pribory-ucheta-i-kipia/kipia/termomanometr.png",
+  "Код (symbol code)": "termomanometr",
+  "Источник": "КИП"
+ },
+ {
+  "Раздел": "Вентиляция и климат",
+  "Подраздел": "Климатическое оборудование",
+  "Позиция": "Тепловентилятор",
+  "Бренды": "Ридан, Ballu, Веза, НормалВент, NED",
+  "Изображение": "images/ventilyaciya-i-klimat/klimaticheskoe-oborudovanie/teploventilyator.png",
+  "Код (symbol code)": "teploventilyator",
+  "Источник": "КЛИМАТИЧЕСКОЕ ОБОРУДОВАНИЕ"
+ },
+ {
+  "Раздел": "Вентиляция и климат",
+  "Подраздел": "Климатическое оборудование",
+  "Позиция": "Тепловая завеса",
+  "Бренды": "Ридан, Ballu, Веза, НормалВент, NED",
+  "Изображение": "images/ventilyaciya-i-klimat/klimaticheskoe-oborudovanie/teplovaya-zavesa.png",
+  "Код (symbol code)": "teplovaya-zavesa",
+  "Источник": "КЛИМАТИЧЕСКОЕ ОБОРУДОВАНИЕ"
+ },
+ {
+  "Раздел": "Вентиляция и климат",
+  "Подраздел": "Климатическое оборудование",
+  "Позиция": "Сплит-система",
+  "Бренды": "Ридан, Ballu, Веза, НормалВент, NED",
+  "Изображение": "images/ventilyaciya-i-klimat/klimaticheskoe-oborudovanie/split-sistema.png",
+  "Код (symbol code)": "split-sistema",
+  "Источник": "КЛИМАТИЧЕСКОЕ ОБОРУДОВАНИЕ"
+ },
+ {
+  "Раздел": "Вентиляция и климат",
+  "Подраздел": "Климатическое оборудование",
+  "Позиция": "Чиллер",
+  "Бренды": "Ридан, Ballu, Веза, НормалВент, NED",
+  "Изображение": "images/ventilyaciya-i-klimat/klimaticheskoe-oborudovanie/chiller.png",
+  "Код (symbol code)": "chiller",
+  "Источник": "КЛИМАТИЧЕСКОЕ ОБОРУДОВАНИЕ"
+ },
+ {
+  "Раздел": "Вентиляция и климат",
+  "Подраздел": "Противопожарные клапаны",
+  "Позиция": "Противопожарный клапан",
+  "Бренды": "Веза, Normalvent",
+  "Изображение": "images/ventilyaciya-i-klimat/protivopozharnye-klapany/protivopozharnyy-klapan.png",
+  "Код (symbol code)": "protivopozharnyy-klapan",
+  "Источник": "Противопожарные, предохранительные клапаны, полипропиленовые трубы, фитинги"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Теплоизоляция",
+  "Позиция": "Каучуковая теплоизоляция",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/teploizolyaciya/kauchukovaya-teploizolyaciya.jpeg",
+  "Код (symbol code)": "kauchukovaya-teploizolyaciya",
+  "Источник": "ТЕПЛОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Теплоизоляция",
+  "Позиция": "Цилиндр из минеральной ваты",
+  "Бренды": "К-Флекс, БОС",
+  "Изображение": "images/izolyaciya/teploizolyaciya/cilindr-iz-mineralnoy-vaty.jpeg",
+  "Код (symbol code)": "cilindr-iz-mineralnoy-vaty",
+  "Источник": "ТЕПЛОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Теплоизоляция",
+  "Позиция": "Подложка из вспененного полиэтилена",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/teploizolyaciya/podlozhka-iz-vspenennogo-polietilena.jpeg",
+  "Код (symbol code)": "podlozhka-iz-vspenennogo-polietilena",
+  "Источник": "ТЕПЛОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Теплоизоляция",
+  "Позиция": "Клей",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/teploizolyaciya/kley.png",
+  "Код (symbol code)": "kley",
+  "Источник": "ТЕПЛОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Теплоизоляция",
+  "Позиция": "Лента",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/teploizolyaciya/lenta.png",
+  "Код (symbol code)": "lenta",
+  "Источник": "ТЕПЛОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Шумоизоляция",
+  "Позиция": "К-Фоник",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/shumoizolyaciya/k-fonik.png",
+  "Код (symbol code)": "k-fonik",
+  "Источник": "ШУМОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ },
+ {
+  "Раздел": "Изоляция",
+  "Подраздел": "Шумоизоляция",
+  "Позиция": "Цилиндр из минеральной ваты (шумоизоляция)",
+  "Бренды": "К-Флекс",
+  "Изображение": "images/izolyaciya/shumoizolyaciya/cilindr-iz-mineralnoy-vaty-shumoizolyaciya.jpeg",
+  "Код (symbol code)": "cilindr-iz-mineralnoy-vaty-shumoizolyaciya",
+  "Источник": "ШУМОИЗОЛЯЦИЯ ТОЛЬКО К-ФЛЕКС"
+ }
+]
